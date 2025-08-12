@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Talha</h1>
-<h3 align="center">A developer from Turkey</h3>
+<h1 align="left">Hi 👋, I'm Talha</h1>
+<h3 align="left">A developer from Turkey</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
