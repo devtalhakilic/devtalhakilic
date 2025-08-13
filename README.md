@@ -1,46 +1,23 @@
-<h2 align="left">Hi 👋! My name is Talha and I'm a Front End and Java developer from Turkey.</h2>
+## Hi there, I’m Talha 👋
 
-###
+I am studying Computer Programming at Istanbul University. At the same time, I develop projects on Frontend Web Development as a freelance.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devtalhakilic&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devtalhakilic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### Skills
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=html" /></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=css" /></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=js" /></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=java" /></a>
 
-###
-
-
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="zephyros_main" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="devtalhakilic@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/0talhakilic/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/devtalhakilic/devtalhakilic/output/snake.svg" alt="Snake animation" />
-
-###
+### Quick Statistics
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vladfrangu.vercel.app/api/?username=devtalhakilic&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vladfrangu.vercel.app/api/top-langs/?username=devtalhakilic&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true" />
+    </td>
+  </tr>
+</table>
