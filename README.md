@@ -1,6 +1,6 @@
 ## Hi there, I’m Talha 👋
 
-I am studying Computer Programming at Istanbul University. At the same time, I develop projects on Frontend Web Development as a freelance.
+I am developing web and desktop applications. At the same time, I am also a high school student.
 
 ### Skills
 <a href="#" target="blank"><img src="https://skillicons.dev/icons?i=html" /></a>
