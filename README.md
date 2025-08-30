@@ -12,7 +12,7 @@ I am developing web and desktop applications. At the same time, I am also a high
 <a href="#" target="blank"><img src="https://skillicons.dev/icons?i=python" /></a>
 
 ### My Portfolio
-<a href="talhakilic.com.tr" target="blank">talhakilic.com.tr</a>
+<a href="talhakilic.com.tr" target="_blank">talhakilic.com.tr</a>
 
 ### Quick Statistics
 <table>
