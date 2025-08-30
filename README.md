@@ -9,6 +9,7 @@ I am developing web and desktop applications. At the same time, I am also a high
 <a href="#" target="blank"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
 <a href="#" target="blank"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
 <a href="#" target="blank"><img src="https://skillicons.dev/icons?i=java" /></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=python" /></a>
 
 ### Quick Statistics
 <table>
