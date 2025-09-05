@@ -11,7 +11,7 @@ Hello everyone, my name is Talha Kılıç. I’ve been passionate about software
 <a href="#" target="blank"><img src="https://skillicons.dev/icons?i=java" /></a>
 <a href="#" target="blank"><img src="https://skillicons.dev/icons?i=python" /></a>
 
-#Skills I'm learning...
+### Skills I'm learning...
 <a href="#" target="blank"><img src="https://skillicons.dev/icons?i=react" /></a>
 <a href="#" target="blank"><img src="https://skillicons.dev/icons?i=materialui" /></a>
 <a href="#" target="blank"><img src="https://skillicons.dev/icons?i=firebase" /></a>
