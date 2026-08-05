@@ -5,7 +5,7 @@
   **Junior Front End Developer & Software Developer**
 
   <p align="center">
-    <a href="https://talhakilic.com.tr"><img src="https://img.shields.io/badge/Portfolio-talhakilic.com.tr-151515?style=for-the-badge&logo=globe&logoColor=white" /></a>
+    <a href="https://talhakilic.dev"><img src="https://img.shields.io/badge/Portfolio-talhakilic.com.tr-151515?style=for-the-badge&logo=globe&logoColor=white" /></a>
   </p>
 
 </div>
