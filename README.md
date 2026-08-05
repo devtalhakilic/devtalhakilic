@@ -1,31 +1,63 @@
-## Hi there, I’m Talha 👋
+<div align="center">
 
-Hello everyone, my name is Talha Kılıç. I’ve been passionate about software and technology since I was 11 years old, and what started as a simple curiosity has now grown into a serious interest and skill set. In the early days, I experimented with small Python projects, writing basic scripts and exploring how coding works behind the scenes, which gave me a strong foundation in problem-solving and logic. Over time, I expanded my knowledge into web development, where I began learning how to create websites, work with modern frameworks, and understand the structure of the internet from a developer’s perspective. Recently, I’ve also started learning Java to broaden my programming skills and gain experience with more complex, object-oriented programming concepts. This journey has been a mix of curiosity, self-learning, and constant practice, and I’m excited to continue improving and building more advanced projects as I move forward.
+  # Hi there, I'm Talha 👋
+  
+  **Junior Front End Developer & Software Developer**
 
-### Skills
-<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=html"></a>
-<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=css"></a>
-<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=js"></a>
-<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind"></a>
-<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap"></a>
-<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=java"></a>
-<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=python"></a>
-<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=react"></a>
-<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=figma"></a>
+  <p align="center">
+    <a href="https://talhakilic.com.tr"><img src="https://img.shields.io/badge/Portfolio-talhakilic.com.tr-151515?style=for-the-badge&logo=globe&logoColor=white" /></a>
+  </p>
 
+</div>
 
-### My Portfolio
-<a href="https://talhakilic.com.tr" target="_blank">talhakilic.com.tr</a>
+---
 
-### Quick Statistics
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vladfrangu.vercel.app/api/?username=devtalhakilic&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vladfrangu.vercel.app/api/top-langs/?username=heblushabus&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true" />
-    </td>
-  </tr>
-  <a href="https://wakatime.com/@24c3fa8b-8e84-4e04-8468-c2d77d1a916a"><img src="https://wakatime.com/badge/user/24c3fa8b-8e84-4e04-8468-c2d77d1a916a.svg" alt="Total time coded since Jan 28 2026" /></a>
-</table>
+### About Me
+
+I'm a developer from Türkiye, currently studying at Atatürk Anatolian High School. 
+
+My journey started at 11 with basic Python scripts to understand how software works under the hood. Since then, I've shifted my main focus toward web development with React and object-oriented programming using Java. Right now, I spend my time building side projects, refining software architecture, and experimenting with modern tech stacks.
+
+When I'm not writing code, I'm usually iterating on new project ideas or working on UI/UX in Figma.
+
+---
+
+### Tech Stack
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,java,python" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+</p>
+
+**Design & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+---
+
+### Statistics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="middle">
+        <img height="150" src="https://github-readme-stats.vladfrangu.vercel.app/api/?username=devtalhakilic&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+      </td>
+      <td align="center" valign="middle">
+        <img height="150" src="https://github-readme-stats.vladfrangu.vercel.app/api/top-langs/?username=devtalhakilic&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true" />
+      </td>
+    </tr>
+  </table>
+
+  <br />
+
+  <a href="https://wakatime.com/@24c3fa8b-8e84-4e04-8468-c2d77d1a916a">
+    <img src="https://wakatime.com/badge/user/24c3fa8b-8e84-4e04-8468-c2d77d1a916a.svg" alt="Total time coded" />
+  </a>
+</div>
