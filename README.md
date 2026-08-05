@@ -56,8 +56,4 @@ When I'm not writing code, I'm usually iterating on new project ideas or working
   </table>
 
   <br />
-
-  <a href="https://wakatime.com/@24c3fa8b-8e84-4e04-8468-c2d77d1a916a">
-    <img src="https://wakatime.com/badge/user/24c3fa8b-8e84-4e04-8468-c2d77d1a916a.svg" alt="Total time coded" />
-  </a>
 </div>
